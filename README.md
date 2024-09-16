@@ -64,3 +64,5 @@ wsl.exe --install --no-distribution 安装可选组件虚拟机平台
 1. 虚拟化IntelVT-x/EPT或AMD-V/RVI(V)
 2. 虚拟化CPU性能计数器(U)
 
+![alt text](image.png)
+
